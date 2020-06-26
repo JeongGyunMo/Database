@@ -7,7 +7,8 @@
     SQL - 언어 정의, 기능 실습
     DB- CRUD
 ### 2018-09-27
-    SQL Server Management Studio를 이용한 기본 SQL 구문 학습
+    SQL Server Management Studio를 이용한 기본 SQL 
+    데이터 정렬, 합병, 검색
 ### 2018-10-11
     중급 SQL - 언어 정의, 기능 실습
 ### 2018-11-01
